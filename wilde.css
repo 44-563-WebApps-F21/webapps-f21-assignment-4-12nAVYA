@@ -1,0 +1,49 @@
+.speech{
+    
+    font-family: 'Courier New';
+    font-size:16px;
+    color:black
+}
+.stage-direction{
+    font-family: Georgia;
+    color:black;
+    font-size: 16px;
+    background-color:cyan;
+}
+.name{
+    font-family: 'Times New  Roman';
+    color:black;
+    font-size:16px;
+}
+.stage-direction:hover{
+    color:brown;
+    background-color: khaki;
+}
+.LORDCAVERSHAM{
+    color:darkred;
+}
+LORD GORING{
+    color:rgb(red, green, blue);
+}
+table{
+    border:1px solid black;
+    padding :45px 30px 50px;
+    margin:25px 50px 75px 120px;
+    width:50%;
+}
+th{
+    color:black;
+    border:1px solid black;
+    text-align:center;
+    background-color:rgb(221, 220, 255);
+
+}
+td{
+    color:black;
+    border:1px soild black;
+    text-align: left;
+}
+tr:nth-child(even) {
+    background-color: rgb(221, 220, 255);
+}
+
